@@ -17,7 +17,7 @@ sudo apt install -y build-essential
 xdg-user-dirs-update
 
 # Windows Manager to install
-bash ./scripts/gui/bspwm
+bash ./script/gui/bspwm
 # bash ~/bookworm-scripts/resources/dk-commands
 # bash ~/bookworm-scripts/resources/dwm-commands
 # bash ~/bookworm-scripts/resources/qtile-commands
