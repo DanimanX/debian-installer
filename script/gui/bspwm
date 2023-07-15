@@ -1,4 +1,4 @@
-sudo apt install -y bspwm suckless-tools sxhkd polybar
+sudo apt install -y bspwm dmenu suckless-tools sxhkd polybar
 
 mkdir -p ~/.config/{bspwm,sxhkd,dunst}
 
